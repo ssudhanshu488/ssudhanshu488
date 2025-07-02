@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Singh</h1>
-<h3 align="center">Machine Learning Enthusiast | Android Developer | Passionate about AI and Computer Vision</h3>
+<h3 align="center">Passionate about AI and Computer Vision</h3>
 
 - 🌱 I’m currently learning **Computer Vision and Deep Learning Frameworks (TensorFlow, PyTorch)**
 
